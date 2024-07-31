@@ -49,11 +49,23 @@ To run the transformations, follow these steps:
     ```bash
     cd data-transformation-project
     ```
-5. Open the `data_transformation.ipynb` notebook and run the cells to see the transformations applied.
+5. Open the `data_transformation.ipynb` Jupiter notebook and run the cells to see the transformations applied.
 
 
 
 
 ## screenshot
 
-
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/1.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/2.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/3.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/4.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/5.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/6.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/7.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/8.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/9.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/10.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/11.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/12.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Data-Transformation-Project-Data-Preprocessing-/master/Screenshot/13.png)
